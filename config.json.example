@@ -1,0 +1,5 @@
+{
+  "showWindow": "true",
+  "inputCsv": "./csv/input.csv",
+  "outputCsv": "./csv/output.csv"
+}

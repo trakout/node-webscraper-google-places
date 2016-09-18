@@ -1,0 +1,33 @@
+{
+  "name": "node-webscraper-google-places",
+  "version": "1.0.0",
+  "description": "Scrapes Google Places (CSV i/o)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trakout/node-webscraper-google-places.git"
+  },
+  "keywords": [
+    "nodejs",
+    "web",
+    "scraper",
+    "google",
+    "places",
+    "nightmarejs",
+    "electron"
+  ],
+  "author": "Travis Nischuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trakout/node-webscraper-google-places/issues"
+  },
+  "homepage": "https://github.com/trakout/node-webscraper-google-places#readme",
+  "dependencies": {
+    "csv": "^1.1.0",
+    "nightmare": "^2.7.0",
+    "q": "^1.4.1"
+  }
+}
